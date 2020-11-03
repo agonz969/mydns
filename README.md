@@ -1,1 +1,1 @@
-#py Desktop\mydns.py cs.fiu.edu 198.41.0.4
+#py ~\mydns.py [host_name] [root_DNS_IP]
